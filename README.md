@@ -1,6 +1,6 @@
 ### Here's what i'm working on 👋
-- I’m currently learning Java | Spring/Spring Boot.
-- I’m looking to collaborate on ... ReactJS/JS/TS/Node Related Projects
+- I’m currently learning Go, Redis
+- I’m looking to collaborate on ... ReactJS(Next)/JS/TS/Node/Python Related Projects
 - How to reach me: suryavenkatesh0@gmail.com
 - Pronouns: ... He/Him
 <br/>
